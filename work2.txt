@@ -1,0 +1,41 @@
+		/*
+		Name		:Barun Neupane
+		Section:	:P
+		Group:	:1
+		Roll No:	:12
+		
+		Q2. Write a c code that loops over the string and replace each character to the character 
+		immediately preceding it in the alphabet. 
+		Example
+		Input String: HELLO
+		Output String: GDKKN */
+		
+
+		#include<stdio.h>      
+		#include<string.h>
+		int main()
+		{
+		    char str[30];
+		    int n,l;
+		    printf("\t\t\t******INPUT******\n");
+		    printf("enter total no of character including null:");
+		    scanf("%d\n",&n);
+		    printf("enter a string:\n");
+		    fgets(str,n,stdin);
+		    l=strlen(str);
+		    strupr(str);
+		    for(int i=0;i<l;i++)
+		    {
+		        if(str[i]!='A')
+		        {
+		            str[i]=str[i]-1;
+		        }
+		        else
+		        {
+		            str[i]='Z';
+		        }
+		    }
+		    printf("\t\t\t******OUTPUT******\n");
+		    puts(str);
+		    return 0;
+		}
