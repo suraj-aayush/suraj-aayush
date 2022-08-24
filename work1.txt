@@ -1,0 +1,36 @@
+		/*
+		Name		:Barun Neupane
+		Section:	:P
+		Group:	:1
+		Roll No:	:12
+
+		Q1. WAP to insert a substring into a string from a particular position.*/
+	
+		#include<stdio.h> 
+		#include<string.h>
+		int main()
+		{
+		    char ch[30],ch1[20];
+		    int i,j,l,l1,p;
+		    printf("\t\t\t******INPUT******\n");
+		    printf("enter main string:");
+		    scanf("%[^\n]s",ch);
+		    l=strlen(ch);
+		    printf("enter sub string:");
+		    scanf("\n%[^\n]s",ch1);
+		    l1=strlen(ch1);
+		    printf("enter particular position:");
+		    scanf("%d",&p);
+		    for(i=p-1;i<(p+l1-1);i++)
+		    {
+		        for(j=l;j>=i;j--)
+		        {
+		            ch[j+1]=ch[j];
+		        }
+		        ch[i]=ch1[i-p+1];
+		        l++;
+		    }
+		    printf("\t\t\t******OUTPUT******\n");
+		    puts(ch);
+		    return 0;
+	    }
