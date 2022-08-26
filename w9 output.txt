@@ -1,0 +1,33 @@
+		                        ******INPUT******
+		enter name,salary and working hour per day:
+		Barun Neupane
+		100000
+		10
+		enter name,salary and working hour per day:
+		Toshar Mina
+		110000
+		8
+		enter name,salary and working hour per day:
+		Divyanshu Negi
+		150000
+		12
+		enter name,salary and working hour per day:
+		Saurav Kumar
+		120000
+		13
+		enter name,salary and working hour per day:
+		Abhin Gupta
+		160000
+		8
+
+
+		                        ******OUTPUT******
+		Name:Barun Neupane	New salaries:105000
+		
+		Name:Toshar Mina        New salaries:112500
+
+		Name:Divyanshu Negi	New salaries:157500
+
+		Name:Saurav Kumar		New salaries:127500
+		
+		Name:Abhin Gupta        New salaries:162500
