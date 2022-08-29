@@ -1,0 +1,128 @@
+[000:060] [2022-05-25 10:07:50 +0000.760290][5b71] Log to file:/storage/emulated/0/voip-data/com.miui.mediaeditor/trace.txt start time:2022-05-25 10:07:50 +0000
+[000:061] [2022-05-25 10:07:50 +0000.760471][5b71] set AppID=50012 old AppID=-1
+[000:061] [2022-05-25 10:07:50 +0000.760513][5b71] Init the android object with jvm:0xb4000074d5821380 env:0xb4000074d58773c0 context:0x7ff1ea0f68
+
+[000:061] [2022-05-25 10:07:50 +0000.760549][5b71] SetAndroidMediaCodecObjects time:93379703  enter.
+
+[000:061] [2022-05-25 10:07:50 +0000.760587][5b71] SetAndroidMediaCodecObjects  leave. expire time = 0 ms
+
+[000:061] [2022-05-25 10:07:50 +0000.760615][5b71] SetAndroidMediaCodecObjects time:93379703  enter.
+
+[000:061] [2022-05-25 10:07:50 +0000.760643][5b71] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects:: jvm :0xb4000074d5821380
+[000:061] [2022-05-25 10:07:50 +0000.760663][5b71] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects success g_jvm_:0xb4000074d5821380 address:0x7402cfe2a0
+[000:061] [2022-05-25 10:07:50 +0000.760690][5b71] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects success g_jvm_encoder_:0xb4000074d5821380 address:0x7402cfe2a0
+[000:061] [2022-05-25 10:07:50 +0000.760711][5b71] SetAndroidMediaCodecObjects  leave. expire time = 0 ms
+
+[000:061] [2022-05-25 10:07:50 +0000.760772][5b71] Set the android objects with jvm:0xb4000074d5821380 env:0xb4000074d58773c0 context:0x7ff1ea0f68
+
+[000:061] [2022-05-25 10:07:50 +0000.760818][5b71] audio jni debug :manager SetAndroidAudioDeviceObjects  env:0xb4000074d58773c0
+[000:061] [2022-05-25 10:07:50 +0000.760848][5b71]  SystemUtil Init done
+[000:064] [2022-05-25 10:07:50 +0000.763863][5b71] Java_com_xiaomi_skyprocess_WrapSegmentEngine_ConstructWrapSegmentEngineJni: 
+[000:064] [2022-05-25 10:07:50 +0000.764089][5b71] getInstanceWrapSegment time:93379706  enter.
+
+[000:065] [2022-05-25 10:07:50 +0000.764984][5b71] getInstanceWrapSegment  leave. expire time = 1 ms
+
+[000:066] [2022-05-25 10:07:50 +0000.766170][5b71] Java_com_xiaomi_skyprocess_WrapSegmentEngine_setGLSurfaceAvalibaleJni: setGLSurfaceAvalibaleJni end jni: 1
+[000:492] [2022-05-25 10:07:51 +0000.192114][605d] Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni: 
+[000:492] [2022-05-25 10:07:51 +0000.192250][605d] Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni:  program id: 3, textureUniform RGB: 1, ATTRIB_VERTEX: 0, ATTRIB_TEXTURE: 1, vertex_vertices len: 32, texture_vertices len: 32
+[000:493] [2022-05-25 10:07:51 +0000.192784][605d] Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni: 
+[000:493] [2022-05-25 10:07:51 +0000.192823][605d] Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni: g_eglcontext: 0xb4000074410d4c00
+[000:493] [2022-05-25 10:07:51 +0000.193143][605d] SetWindowSizeJni, posX: 0, posY: 0, width: 1080, height: 1248
+[000:493] [2022-05-25 10:07:51 +0000.193398][605d] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:93380135  enter.
+
+[000:493] [2022-05-25 10:07:51 +0000.193430][605d] (1/29)OpenGlRender_RenderFrameJni, sourcetype: 0, output_texture: 0, pkt_pts: -9223372036854775808width:0height:0
+[000:497] [2022-05-25 10:07:51 +0000.196727][605d] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 4 ms
+
+[000:500] [2022-05-25 10:07:51 +0000.200350][605d] SetWindowSizeJni, posX: 0, posY: 0, width: 936, height: 1248
+[000:501] [2022-05-25 10:07:51 +0000.201185][605d] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:93380143  enter.
+
+[000:506] [2022-05-25 10:07:51 +0000.206254][605d] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 5 ms
+
+[000:509] [2022-05-25 10:07:51 +0000.208504][605d] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:93380151  enter.
+
+[000:514] [2022-05-25 10:07:51 +0000.213631][605d] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 5 ms
+
+[036:859] [2022-05-25 10:08:27 +0000.559301][605d] SetWindowSizeJni, posX: 0, posY: 0, width: 936, height: 1248
+[036:861] [2022-05-25 10:08:27 +0000.561003][605d] J[000:034] [2022-07-23 12:45:30 +0000.941291][7e32] Log to file:/storage/emulated/0/voip-data/com.miui.mediaeditor/trace.txt start time:2022-07-23 12:45:30 +0000
+[000:034] [2022-07-23 12:45:30 +0000.941393][7e32] Error(ini.cc:191): Open the file failed. error:2
+[000:039] [2022-07-23 12:45:30 +0000.946588][7e32] Error(ini.cc:191): Open the file failed. error:2
+[000:039] [2022-07-23 12:45:30 +0000.946899][7e32] set AppID=50012 old AppID=-1
+[000:039] [2022-07-23 12:45:30 +0000.946947][7e32] Init the android object with jvm:0xb400007148821380 env:0xb4000071488773c0 context:0x7febd9d3c8
+
+[000:039] [2022-07-23 12:45:30 +0000.946976][7e32] SetAndroidMediaCodecObjects time:230589350  enter.
+
+[000:039] [2022-07-23 12:45:30 +0000.947018][7e32] SetAndroidMediaCodecObjects  leave. expire time = 0 ms
+
+[000:039] [2022-07-23 12:45:30 +0000.947054][7e32] SetAndroidMediaCodecObjects time:230589350  enter.
+
+[000:039] [2022-07-23 12:45:30 +0000.947076][7e32] static int webrtc::AndroidHwAvcEncoder::SetAndroidMediaCodecObjects(void *): SetAndroidMediaCodecObjects:: jvm :0xb400007148821380
+[000:039] [2022-07-23 12:45:30 +0000.947107][7e32] static int webrtc::AndroidHwAvcEncoder::SetAndroidMediaCodecObjects(void *): SetAndroidMediaCodecObjects success g_jvm_:0xb400007148821380 address:0x7089a39180
+[000:039] [2022-07-23 12:45:30 +0000.947154][7e32] static int webrtc::AndroidHwAvcEncoder::SetAndroidMediaCodecObjects(void *): SetAndroidMediaCodecObjects success g_jvm_encoder_:0xb400007148821380 address:0x7089a39180
+[000:040] [2022-07-23 12:45:30 +0000.947173][7e32] SetAndroidMediaCodecObjects  leave. expire time = 1 ms
+
+[000:040] [2022-07-23 12:45:30 +0000.947205][7e32] Set the android objects with jvm:0xb400007148821380 env:0xb4000071488773c0 context:0x7febd9d3c8
+
+[000:040] [2022-07-23 12:45:30 +0000.947249][7e32] audio jni debug :manager SetAndroidAudioDeviceObjects  env:0xb4000071488773c0
+[000:040] [2022-07-23 12:45:30 +0000.947283][7e32]  SystemUtil Init done
+[000:041] [2022-07-23 12:45:30 +0000.948419][7e32] jlong Java_com_xiaomi_skyprocess_WrapSegmentEngine_ConstructWrapSegmentEngineJni(JNIEnv *, jobject): 
+[000:041] [2022-07-23 12:45:30 +0000.948548][7e32] getInstanceWrapSegment time:230589352  enter.
+
+[000:041] [2022-07-23 12:45:30 +0000.949083][7e32] getInstanceWrapSegment  leave. expire time = 0 ms
+
+[000:042] [2022-07-23 12:45:30 +0000.949629][7e32] void Java_com_xiaomi_skyprocess_WrapSegmentEngine_setGLSurfaceAvalibaleJni(JNIEnv *, jobject, jboolean): setGLSurfaceAvalibaleJni end jni: 1
+[000:467] [2022-07-23 12:45:31 +0000.374819][413] void Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni(JNIEnv *, jobject, jint, jint, jint, jint, jbyteArray, jbyteArray): 
+[000:467] [2022-07-23 12:45:31 +0000.375029][413] void Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni(JNIEnv *, jobject, jint, jint, jint, jint, jbyteArray, jbyteArray):  program id: 3, textureUniform RGB: 1, ATTRIB_VERTEX: 0, ATTRIB_TEXTURE: 1, vertex_vertices len: 32, texture_vertices len: 32
+[000:469] [2022-07-23 12:45:31 +0000.376448][413] void Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni(JNIEnv *, jobject): 
+[000:469] [2022-07-23 12:45:31 +0000.376550][413] void Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni(JNIEnv *, jobject): g_eglcontext: 0xb4000070cdffbb80
+[000:470] [2022-07-23 12:45:31 +0000.377823][413] SetWindowSizeJni, posX: 0, posY: 0, width: 1080, height: 1248
+[000:471] [2022-07-23 12:45:31 +0000.378610][413] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:230589782  enter.
+
+[000:471] [2022-07-23 12:45:31 +0000.378677][413] (1/29)OpenGlRender_RenderFrameJni, sourcetype: 0, output_texture: 0, pkt_pts: -9223372036854775808width:0height:0
+[000:475] [2022-07-23 12:45:31 +0000.382920][413] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 4 ms
+
+[000:486] [2022-07-23 12:45:31 +0000.393213][413] SetWindowSizeJni, posX: 0, posY: 0, width: 561, height: 1248
+[000:486] [2022-07-23 12:45:31 +0000.393274][413] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:230589797  enter.
+
+[000:493] [2022-07-23 12:45:31 +0000.400296][413] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 7 ms
+
+[000:494] [2022-07-23 12:45:31 +0000.401438][413] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:230589805  enter.
+
+[000:497] [2022-07-23 12:45:31 +0000.404350][413] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 3 ms
+
+[005:047] [2022-07-23 12:45:35 +0000.954348][3fe] Error(ini.cc:191): Open the file failed. error:2
+[005:058] [2022-07-23 12:45:35 +0000.965655][3fe] Error(ini.cc:191): Open the file failed. error:2
+[010:063] [2022-07-23 12:45:40 +0000.970912][3fe] Error(ini.cc:191): Open the file failed. error:2
+[010:075] [2022-07-23 12:45:40 +0000.983103][3fe] Error(ini.cc:191): Open the file failed. error:2
+[015:081] [2022-07-23 12:45:45 +0000.989174][3fe] Error(ini.cc:191): Open the file failed. error:2
+[015:091] [2022-07-23 12:45:45 +0000.998607][3fe] Error(ini.cc:191): Open the file failed. error:2
+[020:097] [2022-07-23 12:45:51 +0000.4442][3fe] Error(ini.cc:191): Open the file failed. error:2
+[020:106] [2022-07-23 12:45:51 +0000.14098][3fe] Error(ini.cc:191): Open the file failed. error:2
+[025:113] [2022-07-23 12:45:56 +0000.20493][3fe] Error(ini.cc:191): Open the file failed. error:2
+[025:119] [2022-07-23 12:45:56 +0000.26810][3fe] Error(ini.cc:191): Open the file failed. error:2
+[030:127] [2022-07-23 12:46:01 +0000.34368][3fe] Error(ini.cc:191): Open the file failed. error:2
+[030:137] [2022-07-23 12:46:01 +0000.44806][3fe] Error(ini.cc:191): Open the file failed. error:2
+[035:140] [2022-07-23 12:46:06 +0000.47428][3fe] Error(ini.cc:191): Open the file failed. error:2
+[035:151] [2022-07-23 12:46:06 +0000.58963][3fe] Error(ini.cc:191): Open the file failed. error:2
+[040:154] [2022-07-23 12:46:11 +0000.62064][3fe] Error(ini.cc:191): Open the file failed. error:2
+[040:158] [2022-07-23 12:46:11 +0000.65603][3fe] Error(ini.cc:191): Open the file failed. error:2
+[045:165] [2022-07-23 12:46:16 +0000.72923][3fe] Error(ini.cc:191): Open the file failed. error:2
+[045:175] [2022-07-23 12:46:16 +0000.82585][3fe] Error(ini.cc:191): Open the file failed. error:2
+[050:177] [2022-07-23 12:46:21 +0000.84867][3fe] Error(ini.cc:191): Open the file failed. error:2
+[050:181] [2022-07-23 12:46:21 +0000.88663][3fe] Error(ini.cc:191): Open the file failed. error:2
+[055:187] [2022-07-23 12:46:26 +0000.94627][3fe] Error(ini.cc:191): Open the file failed. error:2
+[055:195] [2022-07-23 12:46:26 +0000.102479][3fe] Error(ini.cc:191): Open the file failed. error:2
+[058:728] [2022-07-23 12:46:29 +0000.635429][7e32] void Java_com_xiaomi_skyprocess_WrapSegmentEngine_setGLSurfaceAvalibaleJni(JNIEnv *, jobject, jboolean): setGLSurfaceAvalibaleJni end jni: 0
+[060:199] [2022-07-23 12:46:31 +0000.106294][3fe] Error(ini.cc:191): Open the file failed. error:2
+[060:202] [2022-07-23 12:46:31 +0000.109366][3fe] Error(ini.cc:191): Open the file failed. error:2
+[065:208] [2022-07-23 12:46:36 +0000.115730][3fe] Error(ini.cc:191): Open the file failed. error:2
+[065:219] [2022-07-23 12:46:36 +0000.126711][3fe] Error(ini.cc:191): Open the file failed. error:2
+[070:232] [2022-07-23 12:46:41 +0000.139470][3fe] Error(ini.cc:191): Open the file failed. error:2
+[070:235] [2022-07-23 12:46:41 +0000.142933][3fe] Error(ini.cc:191): Open the file failed. error:2
+[075:245] [2022-07-23 12:46:46 +0000.152797][3fe] Error(ini.cc:191): Open the file failed. error:2
+[075:253] [2022-07-23 12:46:46 +0000.161157][3fe] Error(ini.cc:191): Open the file failed. error:2
+[080:294] [2022-07-23 12:46:51 +0000.201690][3fe] Error(ini.cc:191): Open the file failed. error:2
+[080:302] [2022-07-23 12:46:51 +0000.209679][3fe] Error(ini.cc:191): Open the file failed. error:2
+[085:333] [2022-07-23 12:46:56 +0000.241159][3fe] Error(ini.cc:191): Open the file failed. error:2
+[085:345] [2022-07-23 12:46:56 +0000.252573][3fe] Error(ini.cc:191): Open the file failed. error:2
+[090:379] [2022-07-23 12:47:01 +0000.286641][3fe] Error(ini.cc:191): Open the file failed. error:2
+[090:387] [2022-07-23 12:47:01 
