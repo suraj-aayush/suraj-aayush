@@ -1,0 +1,44 @@
+		/*
+		Name		:Barun Neupane
+		Section:	:P
+		Group:	:1
+		Roll No:	:12
+
+
+		Q7. WAP to add elements of two unequal size array into 3rd array using Dynamic Memory 
+		Allocation.   */
+
+		#include<stdio.h>     
+		#include<stdlib.h>
+		int main()
+		{
+		    int *p,*q,*r;
+		    int i,n,n1;                             //n<n1;
+		    printf("\t\t\t******INPUT******\n");
+		    printf("enter the size of the array:"); 
+		    scanf("%d%d",&n,&n1);
+		    p=(int *)calloc(n,sizeof(int));
+		    q=(int *)calloc(n1,sizeof(int));
+		    printf("enter the elements of 1st array:");
+		    for(i=0;i<n;i++)
+		    {
+		        scanf("%d",p+i);
+		    }
+		    printf("enter the elements of 2nd array:");
+		    for(i=0;i<n1;i++)
+		    {
+		        scanf("%d",q+i);
+		    }
+		    r=(int*)calloc(n1,sizeof(int));
+		    for(i=0;i<n;i++)
+		    {
+		        *(r+i)=*(p+i)+*(q+i);
+		    }
+		    *(r+i)=*(q+i);
+		    printf("\t\t\t******OUTPUT******\n");
+		    for(i=0;i<n1;i++)
+		    {
+		        printf("%d ",*(r+i));
+		    }
+		    return 0;
+		}
