@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Any project that helps me gain knowledge.**
 
-- 📫 How to reach me **aayushagrawal296@gmail.com**
+- 📫 How to reach me **surajkumar727485@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
