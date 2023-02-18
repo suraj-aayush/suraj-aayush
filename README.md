@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kumar</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/explore/coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0W2URLypJqm84Mzn8eq-Ld&ust=1676790001166000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKD7ktW_nv0CFQAAAAAdAAAAABAZ)">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-aayush" /> </p>
 
