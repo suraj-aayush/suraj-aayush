@@ -31,5 +31,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-aayush&show_icons=true&locale=en" alt="suraj-aayush" /></p>
 
+[![An image of @surajaayush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajaayush)]
+[holopin] : (https://holopin.io/@surajaayush)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-aayush&" alt="suraj-aayush" /></p>
-[![An image of @surajaayush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajaayush)](https://holopin.io/@surajaayush)
+
